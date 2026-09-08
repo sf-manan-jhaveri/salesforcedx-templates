@@ -864,12 +864,12 @@
 
 "@salesforce/ui-bundle-template-app-react-template-b2e@^12.4.4":
   version "12.4.5"
-  resolved "https://nexus-proxy.repo.local.sfdc.net/nexus/content/groups/npm-all/@salesforce/ui-bundle-template-app-react-template-b2e/-/ui-bundle-template-app-react-template-b2e-12.4.5.tgz#0d5256a3ba835551d436cf43fd153bb274baea8d"
+  resolved "https://registry.yarnpkg.com/@salesforce/ui-bundle-template-app-react-template-b2e/-/ui-bundle-template-app-react-template-b2e-12.4.5.tgz#0d5256a3ba835551d436cf43fd153bb274baea8d"
   integrity sha512-uCSwPALYjHakAdLw6vd61cw8oF5/Yvidy5QKuLHUr9k0/0P9AsHIvrC5GiyVFXytuDM2XU7s06TzRC6/eNwsWA==
 
 "@salesforce/ui-bundle-template-app-react-template-b2x@^12.4.4":
   version "12.4.5"
-  resolved "https://nexus-proxy.repo.local.sfdc.net/nexus/content/groups/npm-all/@salesforce/ui-bundle-template-app-react-template-b2x/-/ui-bundle-template-app-react-template-b2x-12.4.5.tgz#f2fdc3b5b370d6b5ce7e6b30d6419b59a4f652b1"
+  resolved "https://registry.yarnpkg.com/@salesforce/ui-bundle-template-app-react-template-b2x/-/ui-bundle-template-app-react-template-b2x-12.4.5.tgz#f2fdc3b5b370d6b5ce7e6b30d6419b59a4f652b1"
   integrity sha512-SFRISAWL+f23KEQC1EUHXC/lHtat8/wgrwCc1PA3KmBtQ0vGhM/GGZIUhH4Au/Kj6QJ3eEEUkW0hYz2O8PvFPQ==
 
 "@salesforce/ui-bundle-template-base-angular-app@^12.4.4":
@@ -879,12 +879,12 @@
 
 "@salesforce/ui-bundle-template-base-react-app@^12.4.4":
   version "12.4.5"
-  resolved "https://nexus-proxy.repo.local.sfdc.net/nexus/content/groups/npm-all/@salesforce/ui-bundle-template-base-react-app/-/ui-bundle-template-base-react-app-12.4.5.tgz#0b5000f1caf81a315026b97e90b37969aaa4d0b8"
+  resolved "https://registry.yarnpkg.com/@salesforce/ui-bundle-template-base-react-app/-/ui-bundle-template-base-react-app-12.4.5.tgz#0b5000f1caf81a315026b97e90b37969aaa4d0b8"
   integrity sha512-4hXMYtSaL7LYOpxx9CQrEuQDHnay+4QkZNItjY70Hf229e63qSKUal5R6YndBTMj1GJ7LUPLK5m3S19Mj6Oijw==
 
 "@salesforce/ui-bundle-template-base-web-app@^12.4.4":
   version "12.4.5"
-  resolved "https://nexus-proxy.repo.local.sfdc.net/nexus/content/groups/npm-all/@salesforce/ui-bundle-template-base-web-app/-/ui-bundle-template-base-web-app-12.4.5.tgz#b71a679966ea837339dad999bc1ad690fdd8380f"
+  resolved "https://registry.yarnpkg.com/@salesforce/ui-bundle-template-base-web-app/-/ui-bundle-template-base-web-app-12.4.5.tgz#b71a679966ea837339dad999bc1ad690fdd8380f"
   integrity sha512-+S4g22aeUFkfjEzWUPI2MNehNkvGp9xt4VV5jSpzJT7g8HlKrVpjxeK43sMxUb5f7smUdPhX9Z//bLVvY9X5XA==
 
 "@shikijs/engine-oniguruma@^3.23.0":
